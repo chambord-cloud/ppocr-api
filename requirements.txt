@@ -1,6 +1,6 @@
 numpy
 pillow
-paddlepaddle
+paddlepaddle==3.0.0b1
 paddleocr
 flask
 gevent
